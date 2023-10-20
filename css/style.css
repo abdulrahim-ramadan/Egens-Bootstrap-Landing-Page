@@ -7,6 +7,10 @@ body{
     font-weight: 500;
     color: black;
 }
+.nav-item:hover .nav-link{
+color:#7153d9 ;
+}
+
 .main-subtitle{
 font-size: 24px;
 color: #7153b9;
@@ -31,3 +35,10 @@ color: #54545f;
     color: white;
 
 }
+.bg-white {
+    background: #e9edf3 !important;
+  }
+  
+  .bg-white.scrolled {
+    background: white !important;
+  }
