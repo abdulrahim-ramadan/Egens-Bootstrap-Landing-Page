@@ -1,0 +1,33 @@
+body{
+    font-family: 'Jost', sans-serif;
+    background-color: #e9edf3;
+}
+.nav-link{
+    font-size: 18px;
+    font-weight: 500;
+    color: black;
+}
+.main-subtitle{
+font-size: 24px;
+color: #7153b9;
+letter-spacing: 8px;
+font-weight: 500;
+}
+.main-title{
+    font-size: 72px;
+    font-weight: 500;
+
+}
+.main-p{
+font-size: 24px;
+font-weight: 500;
+color: #54545f;
+}
+.mian-btn{
+    background: linear-gradient(135deg, #4526b1 0%,#5435be 45%,#7153d9 66%);
+    padding: 20px 45px;
+    border-radius: 35px;
+    text-decoration: none;
+    color: white;
+
+}
