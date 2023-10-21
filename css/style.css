@@ -57,3 +57,39 @@ color: #54545f;
     color: black;
 
   }
+  .service-subtitle{
+    font-size: 18px;
+
+  }
+
+  .service-title{
+    font-size: 60px;
+  }
+  .service-p{
+    font-size: 21px;
+    color: #4526b1;
+  }
+  
+  .mycard{
+    box-shadow: 0px 12px 42px rgba(69,38,177, 0,1),11px 6px 25px rgba(69, 38, 177, 0,1)
+  }
+  .mycard img{
+    margin-top: -39px;
+   
+  }
+  .mycard p{
+    color: #54545f;
+    font-size: 18px;
+    font-weight: 400;
+  }
+  .mycard a{
+    color: black;
+    font-size: 18px;
+    font-weight: 400;
+    text-decoration: none;
+    transition: .3s;
+
+  }
+  .mycard a:hover{
+    margin-left: 10px;
+  }
