@@ -1,7 +1,14 @@
 body{
     font-family: 'Jost', sans-serif;
-    background-color: #e9edf3;
+    
 }
+.mybackground{
+  background-color: #e9edf3;
+}
+
+
+
+
 .nav-link{
     font-size: 18px;
     font-weight: 500;
