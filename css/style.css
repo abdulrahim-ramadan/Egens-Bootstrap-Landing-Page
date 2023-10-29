@@ -183,3 +183,10 @@ margin-top: 50px;
   padding-left: 12px !important;
   margin-top: 12px;
 }
+
+/* tablet size */
+@media(min-width 577px;) and (max-width:991px){
+  .blog-list{
+    margin-top: 30px;
+  }
+}
