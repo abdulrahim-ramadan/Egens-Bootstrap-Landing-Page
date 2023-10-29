@@ -165,3 +165,21 @@ margin-top: 50px;
   .feature-card{
     margin: 15px 0px;
   }
+
+  .img-2{
+    margin-top: 20px;
+  }
+  .img-1{
+    margin-top: 20px;
+  }
+  .blog-card{
+    margin-top:20px
+  }
+
+.blog-card img{
+  width: 100%;
+}
+.blog-content{
+  padding-left: 12px !important;
+  margin-top: 12px;
+}
