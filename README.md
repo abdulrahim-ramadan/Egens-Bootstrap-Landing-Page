@@ -6,4 +6,4 @@ Landing page using html , css , bootstrap &amp; Javascript
 
 
 
-# Please ⭐ the repo to support our project
+#Please ⭐ the repo to support our project
