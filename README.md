@@ -1,4 +1,4 @@
-# Egens Bootstrap Landing Page ⭐
+# Egens Bootstrap Landing Page ⭐🤩
 
 This repository contains a Bootstrap landing page template called "Egens." It is designed to provide a sleek and modern landing page for various purposes such as product launches, portfolios, or business websites.
 
